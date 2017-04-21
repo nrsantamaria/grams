@@ -36,7 +36,7 @@ _This app will collect two words from the user and determine if the words are an
 
 ## Known Bugs
 
-__
+_Will not currently check for multiple words in input field._
 
 ## Support and contact details
 
@@ -44,7 +44,8 @@ _Please contact Nicole Santamaria at NicoleRSantamaria@gmail.com if you have any
 
 ## Technologies Used
 
-__
+_New ruby gem call ruby-dictionary to search through a text file of english words_
+_googlefonts_
 
 ### License
 
