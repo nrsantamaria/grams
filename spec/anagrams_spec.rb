@@ -1,5 +1,7 @@
 require('rspec')
+require('ruby-dictionary')
 require('anagrams')
+
 
 describe('String#anagrams') do
   it('will check if two words are anagrams') do
