@@ -1,3 +1,37 @@
-jumbotron {
-  
+.jumbotron {
+  text-align: center;
+  background: rgba(182, 196, 143, 0.7)
+}
+
+.jumbotron h1 {
+  font-family: 'Sigmar One', cursive;
+  color: white;
+  text-shadow: -1px 1px #000;
+}
+
+
+h2 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  text-shadow: 1px 1px #B5B5B4;
+}
+
+.form-group {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-shadow: 1px 1px #B5B5B4;
+}
+
+.btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+#bg-img {
+  position: fixed;
+  z-index: -99;
+  opacity: 0.75;
+  min-height: 100%;
+  min-width: 100%;
 }
