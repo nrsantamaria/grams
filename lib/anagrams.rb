@@ -9,7 +9,7 @@ class String
       elsif word_array.uniq.sort == compare_array.uniq.sort
         'These two words are anagrams!'
       else
-        'These two words are not anagrams.'
+        'These words have no letter matches and are antigrams.'
       end
     else
       'That is not a word, try inputting a different word.'

@@ -16,4 +16,7 @@ describe('String#anagrams') do
   it('will check if word includes vowels') do
     expect('yurb'.anagrams('ruby')).to(eq('That is not a word, try inputting a different word.'))
   end
+  it('will check if words are antigrams') do
+    expect('hi'.anagrams('bye')).to(eq('These words have no letter matches and are antigrams.'))
+  end
 end
