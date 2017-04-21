@@ -1,4 +1,4 @@
-# _Anagrams, Antigrams, Palindromes, oh my!_
+# _Anagrams, and Antigrams, and Palindromes, Oh My!_
 
 #### _This app reviews if words are anagrams, palindromes or antigrams, Friday, April 21, 2017_
 
