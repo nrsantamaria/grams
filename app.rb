@@ -9,7 +9,7 @@ get('/') do
 end
 
 get('/results') do
-  @compare = params.fetch('compare')
-  @results = params.fetch('word').anagrams(@compare)
+  compare = params.fetch('compare')
+  @results = params.fetch('word').anagrams(compare)
   erb(:results)
 end

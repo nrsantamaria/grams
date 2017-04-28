@@ -36,7 +36,7 @@ _This app will collect two words from the user and determine if the words are an
 
 ## Known Bugs
 
-_Will not currently check for multiple words in input field._
+_No known bugs._
 
 ## Support and contact details
 
